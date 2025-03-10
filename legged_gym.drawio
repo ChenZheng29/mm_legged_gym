@@ -138,7 +138,7 @@
         <mxCell id="UPVmFBT0MDqUm_56yAkY-40" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;AnymalCFlatCfg&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="712.5" y="354" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UPVmFBT0MDqUm_56yAkY-46" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;AnymalCFlatCfg&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="UPVmFBT0MDqUm_56yAkY-46" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;AnymalBRoughCfg&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="712.5" y="400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UPVmFBT0MDqUm_56yAkY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPVmFBT0MDqUm_56yAkY-51" target="UPVmFBT0MDqUm_56yAkY-52">

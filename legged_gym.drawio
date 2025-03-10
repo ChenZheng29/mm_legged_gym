@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UPVmFBT0MDqUm_56yAkY-56" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="560" y="450" width="570" height="50" as="geometry" />
+          <mxGeometry x="560" y="450" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UPVmFBT0MDqUm_56yAkY-54" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="300" width="570" height="140" as="geometry" />
+          <mxGeometry x="560" y="300" width="550" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UPVmFBT0MDqUm_56yAkY-38" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="570" height="50" as="geometry" />
+          <mxGeometry x="560" y="240" width="550" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xk9EZmTTloKpiQCqurxU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Xk9EZmTTloKpiQCqurxU-1" target="Xk9EZmTTloKpiQCqurxU-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -144,16 +144,16 @@
         <mxCell id="UPVmFBT0MDqUm_56yAkY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPVmFBT0MDqUm_56yAkY-51" target="UPVmFBT0MDqUm_56yAkY-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="935" y="340" />
-              <mxPoint x="935" y="369" />
+              <mxPoint x="910" y="340" />
+              <mxPoint x="910" y="369" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UPVmFBT0MDqUm_56yAkY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPVmFBT0MDqUm_56yAkY-51" target="UPVmFBT0MDqUm_56yAkY-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="935" y="340" />
-              <mxPoint x="935" y="415" />
+              <mxPoint x="910" y="340" />
+              <mxPoint x="910" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -161,10 +161,10 @@
           <mxGeometry x="900" y="310" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UPVmFBT0MDqUm_56yAkY-52" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;AnymalCFlatCfgPPO&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="957.5" y="354" width="162.5" height="30" as="geometry" />
+          <mxGeometry x="930" y="354" width="162.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UPVmFBT0MDqUm_56yAkY-53" value="&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;AnymalBRoughCfgPPO&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="957.5" y="400" width="162.5" height="30" as="geometry" />
+          <mxGeometry x="930" y="400" width="162.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
